@@ -1,2 +1,2 @@
-# memory_card
+# Wednesday
 Очень интересная программа для WEDNESDAY
